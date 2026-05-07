@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-objectid,Work ID,,,
-parentid,,,
-display_template,,,
+objectid,Work ID,,,,
+parentid,,,,
+display_template,,,,
 title,Title,,,DCTERMS.title,name
 creator,Artist,,,DCTERMS.creator,creator
 location_of_origin,City/School,,,DCTERMS.spatial,locationCreated
