@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name,facet_name
-date,Date,,,Date Created,
-description,,,true,,
-creator,Creator,,,,
-subject,,true,,,
-location,,true,,,Location Depicted
-identifier,,,true,Identifier,
+title,Title,,,Title,
+creator,Artist,,,Artist,
+location_of_origin,City/School,,,,
+creator_photographer,Photographer,,,
+date,Creation Date (Circa),,,Creation Date (Circa),
+subject,Subjects,true,,,,
