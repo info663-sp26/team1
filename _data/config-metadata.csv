@@ -1,15 +1,22 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
+objectid,Work ID,,,
+parentid,,,
+display_template,,,
+title,Title,,,DCTERMS.title,name
+creator,Artist,,,DCTERMS.creator,creator
+location_of_origin,City/School,,,DCTERMS.spatial,locationCreated
+creator_photographer,Photographer,,,DCTERMS.creator,contributor
+date,Creation Date(Circa),,,DCTERMS.created,dateCreated
+source,Citation,,,DCTERMS.bibliographicCitation,citation
+date_earliest,Earliest Date,,,DCTERMS.temporal,temporalCoverage
+date_latest,Latest Date,,,DCTERMS.temporal,temporalCoverage
+objectt_ht,Height,,,DCTERMS.extent,height
+object_wd,Width,,,DCTERMS.extent,width
+object_mm,Medium Material,,,DCTERMS.medium,artMedium
+object_sm,Support Material,,,DCTERMS.medium,artworkSurface
 description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,DCTERMS.coverage,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-language,Language,,,DCTERMS.language,
-rightsstatement,,,,DCTERMS.rights,license
+subject,Subjects,,,DCTERMS.subject,keyword
+description_provenance,Provenance Records,,,DCTERMS.provenance,about
+object_location,File Name,,,DCTERMS.identifier,contentURL
+format_size,File Size,,,DCTERMS.extent,contentSize
+format,File Type,,,DCTERMS.format,encodingFormat
