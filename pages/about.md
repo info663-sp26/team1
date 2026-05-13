@@ -18,20 +18,15 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+## About Venice Reborn
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Venice Reborn: Cataloging the Masters is captured metadata constructing the relationships between works, representations of the works (photographs), and instantiations of those representations contained within a collection of digital image files of photographs of historical artworks from the I Tatti Archive, cataloged originally by Bernard Berenson; along with capturing rich metadata about those artworks themselves.  
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+MAP creators and information:
+Adonis Fuentes: afuente6@pratt.edu
+Matthew Henzy: mhenz221@pratt.edu
+Delia Light: dlight5@pratt.edu
+Daria Shulga: dshulga@pratt.edu
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
